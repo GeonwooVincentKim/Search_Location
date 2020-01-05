@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffae0c0a-c7ae-4106-beeb-d238729d1618" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1Vs7nyPRbi1uIN08AN6xjMQ0FtP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/Python_Class/Search_Artist_list_Simple_Chatbot-master/Search_Artist_list_Simple_Chatbot-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\static\scripts" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\templates" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\mysite\templates" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\mysite\template" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\static\css" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\staticfiles\admin\css" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\templates" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\mysite\static\css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffae0c0a-c7ae-4106-beeb-d238729d1618" name="Default Changelist" comment="" />
+      <created>1578030119716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578030119716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="265" key="FileChooserDialogImpl" timestamp="1578248205895">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="267" y="265" key="FileChooserDialogImpl/0.0.1920.1019@0.0.1920.1019" timestamp="1578248205895" />
+    <state x="0" y="152" key="SettingsEditor" timestamp="1578031472109">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="0" y="152" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1578031472109" />
+    <state x="179" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1578183927057">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="179" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578183927057" />
+    <state x="1066" y="44" width="718" height="584" key="dock-window-1" timestamp="1578150346326">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="1066" y="44" width="718" height="584" key="dock-window-1/0.0.1920.1019@0.0.1920.1019" timestamp="1578150346326" />
+    <state x="150" y="223" key="search.everywhere.popup" timestamp="1578152199226">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="150" y="223" key="search.everywhere.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1578152199226" />
+  </component>
+</project>

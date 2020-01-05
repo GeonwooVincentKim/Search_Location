@@ -1,0 +1,24 @@
+*{margin: 0; padding: 0; font-family: 'Nanum Gothic', sans-serif;}
+a{text-decoration: none;}
+li{list-style: none;}
+html, body{width: 100%; height: 100%;}
+
+#map{width: 70%; height: 100vh; z-index: 1; float: left;}
+#map > div:last-child{display: none;}
+
+#list{width: 30%; height: 100vh; position: relative; float: left; overflow-x: hidden; overflow-y: scroll;}
+#row_wrap_wrap{width: 80%; padding: 50px 0; margin: auto; position: relative;}
+#row_head{width: 100%; height: 50px; font-weight: bold; box-sizing: border-box; border-bottom: 1px solid #dcdcdc; background: #FAFAFA;}
+.row_wrap{width: 100%; height: 50px; float: left;}
+.row{float: left; text-align: center;}
+.first_row{width: 10%; height: 50px; box-sizing: border-box; border-right: 1px solid #dcdcdc; border-bottom: 1px solid #dcdcdc;line-height: 50px;}
+.second_row{width: 80%; line-height: 25px; height: 50px; border-right: 1px solid #dcdcdc; border-bottom: 1px solid #dcdcdc;text-align: left; box-sizing: border-box; padding: 0 20px;}
+.third_row{width: 10%; height: 50px; line-height: 50px; position: relative;}
+.third_row > button{width: 100%; height: 50px; border: none; cursor: pointer; position: absolute; top: 0; left: 0;}
+
+@media (max-width : 1500px){
+    #list{font-size: 12px;}
+}
+@media (max-width : 1250px){
+    #list{font-size: 10px;}
+}
