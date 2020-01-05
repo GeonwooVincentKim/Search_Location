@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffae0c0a-c7ae-4106-beeb-d238729d1618" name="Default Changelist" comment="Set Map data">
+    <list default="true" id="ffae0c0a-c7ae-4106-beeb-d238729d1618" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578249286024</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Set Map data">
+      <created>1578249737473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578249737473</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,10 +104,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Set Map data" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1089" y="95" key="CommitChangelistDialog2" timestamp="1578249604857">
+    <state x="1089" y="95" key="CommitChangelistDialog2" timestamp="1578249736216">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="1089" y="95" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1578249604857" />
+    <state x="1089" y="95" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1578249736216" />
     <state x="267" y="265" key="FileChooserDialogImpl" timestamp="1578248205895">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>

@@ -1,0 +1,13 @@
+    
+        var lat = {{ post.lat }};
+        var lng = {{ post.lng }};
+
+var userLocations = {lat: 37.538873, 126.990703};
+
+var container = $('.post-map')[0];
+        var map = new google.maps.Map(container,{
+            zoom: 4,
+            center: userLocations
+        });
+
+{% endblock %}
