@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffae0c0a-c7ae-4106-beeb-d238729d1618" name="Default Changelist" comment="" />
+    <list default="true" id="ffae0c0a-c7ae-4106-beeb-d238729d1618" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/template/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -88,10 +94,10 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="0" y="152" key="SettingsEditor/0.0.1920.1019@0.0.1920.1019" timestamp="1578031472109" />
-    <state x="179" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1578183927057">
+    <state x="179" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1578248927197">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="179" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578183927057" />
+    <state x="179" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578248927197" />
     <state x="1066" y="44" width="718" height="584" key="dock-window-1" timestamp="1578150346326">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
