@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffae0c0a-c7ae-4106-beeb-d238729d1618" name="Default Changelist" comment="">
+    <list default="true" id="ffae0c0a-c7ae-4106-beeb-d238729d1618" name="Default Changelist" comment="Set Map data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/template/index.html" afterDir="false" />
     </list>
@@ -80,12 +80,28 @@
       <option name="presentableId" value="Default" />
       <updated>1578030119716</updated>
     </task>
+    <task id="LOCAL-00001" summary="Set Map data">
+      <created>1578249286024</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578249286024</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Set Map data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set Map data" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1089" y="95" key="CommitChangelistDialog2" timestamp="1578249604857">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="1089" y="95" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1578249604857" />
     <state x="267" y="265" key="FileChooserDialogImpl" timestamp="1578248205895">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
