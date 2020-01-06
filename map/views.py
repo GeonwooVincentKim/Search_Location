@@ -28,17 +28,22 @@ def index(request):
 
 def post_detail(request, pk):
     post = get_object_or_404(Post, pk=pk)
+    # post = Post.objects.all()
+    # context = {
+    #     'post': post
+    # }
+    # return render(request, 'post_detail.html', context)
     return render(request, 'post_detail.html',
                   {
                     'post': post
                   })
 
 
-def save_lnglat(request, pk, newlnglat):
+def save_lnglat(pk, newlnglat):
     post = get_object_or_404(Post, pk=pk)
     post.lnglat = newlnglat
     post.save()
-    return render(request, 'post_detail.html',
-                  {
-                      'post': post
-                  })
+    # return render(request, 'post_detail.html',
+    #               {
+    #                   'post': post
+    #               })
