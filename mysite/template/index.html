@@ -29,14 +29,18 @@
                 <div class="third_row row">확인</div>
             </div>
 
-            <!-- NOTE: 결과 -->
             <div class="row_wrap">
                 <div class="first_row row">1</div>
                 <div class="second_row row">
-                    {{ post.lng }} {{ post.lng }}<br>{% block time1 %}{% endblock %}
+                    {{ post.lng }} {{ post.lat }}
+                    <br>
+                    {% block time1 %}
+                    {% endblock %}
                 </div>
                 <div class="third_row row"><button>확<br>인</button></div>
+
             </div>
+            <br><br>
             <div class="row_wrap">
                 <div class="first_row row">1</div>
                 <div class="second_row row">

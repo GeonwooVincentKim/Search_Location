@@ -9,3 +9,12 @@
     {{ post.content }}
     {{ post.lnglat }}
 {% endblock %}
+
+{% block time1 %}
+    {{ post.created_at }}
+    <br>
+    {{ post.updated_at }}
+{% endblock %}
+{% block time2 %}
+    {{ current_time }}
+{% endblock %}

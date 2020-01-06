@@ -17,10 +17,12 @@ def hi(request):
 
 def index(request):
     post_list = Post.objects.all()
+    now = datetime.datetime.now()
     return render(request, 'template.html',
                   {
                     'post_list': post_list,
                     'post_lat': post_detail,
+                    'current_time': now,
                   })
 
 
@@ -29,4 +31,14 @@ def post_detail(request, pk):
     return render(request, 'post_detail.html',
                   {
                     'post': post
+                  })
+
+
+def save_lnglat(request, pk, newlnglat):
+    post = get_object_or_404(Post, pk=pk)
+    post.lnglat = newlnglat
+    post.save()
+    return render(request, 'post_detail.html',
+                  {
+                      'post': post
                   })
