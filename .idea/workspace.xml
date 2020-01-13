@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffae0c0a-c7ae-4106-beeb-d238729d1618" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/map/templates/Roll_back_code_of_post_detail.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map/templates/index__2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/map/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/migrations/0002_post_is_public.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/migrations/0003_post_title.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/migrations/0004_auto_20200105_2342.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/migrations/0005_remove_post_is_public.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/map/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/map/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/map/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/map/templates/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/map/templates/post_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/map/templates/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/map/templates/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/map/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/map/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/map/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/views.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -33,33 +47,37 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectId" id="1Vs7nyPRbi1uIN08AN6xjMQ0FtP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/Python_Class/Search_Artist_list_Simple_Chatbot-master/Search_Artist_list_Simple_Chatbot-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/template/index.html" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/mysite/template/index.html" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\mysite\templates" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\mysite\template" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\static\css" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\staticfiles\admin\css" />
+      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\static\scripts" />
       <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\templates" />
       <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\mysite\templates" />
       <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map" />
       <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\static" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\mysite\template" />
-      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\static\css" />
-      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\staticfiles\admin\css" />
-      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\map\templates" />
-      <recent name="E:\Django\Django_PortFolio\main\django_codes\mysite\mysite\static\css" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -117,14 +135,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Set Map data" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1170" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578823347261">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="1170" y="260" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578823347261" />
     <state x="1089" y="95" key="CommitChangelistDialog2" timestamp="1578292572058">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="1089" y="95" key="CommitChangelistDialog2/0.0.1920.1019@0.0.1920.1019" timestamp="1578292572058" />
-    <state x="267" y="265" key="FileChooserDialogImpl" timestamp="1578315278346">
+    <state x="796" y="154" width="774" height="791" key="DiffContextDialog" timestamp="1578835361666">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="267" y="265" key="FileChooserDialogImpl/0.0.1920.1019@0.0.1920.1019" timestamp="1578315278346" />
+    <state x="796" y="154" width="774" height="791" key="DiffContextDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578835361666" />
+    <state x="267" y="265" key="FileChooserDialogImpl" timestamp="1578919523739">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="267" y="265" key="FileChooserDialogImpl/0.0.1920.1019@0.0.1920.1019" timestamp="1578919523739" />
     <state x="0" y="152" key="SettingsEditor" timestamp="1578274237874">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -133,21 +159,25 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="1032" y="243" key="Vcs.Push.Dialog.v2/0.0.1920.1019@0.0.1920.1019" timestamp="1578250582819" />
-    <state x="179" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1578315263206">
+    <state x="179" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1578915107569">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="179" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578315263206" />
+    <state x="179" y="334" key="com.intellij.ide.util.TipDialog/0.0.1920.1019@0.0.1920.1019" timestamp="1578915107569" />
+    <state x="0" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578399724625">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="0" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1019@0.0.1920.1019" timestamp="1578399724625" />
     <state x="1244" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578250568023">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="1244" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1019@0.0.1920.1019" timestamp="1578250568023" />
-    <state x="1066" y="44" width="718" height="584" key="dock-window-1" timestamp="1578150346326">
+    <state x="994" y="0" width="735" height="700" key="dock-window-1" timestamp="1578484613286">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="1066" y="44" width="718" height="584" key="dock-window-1/0.0.1920.1019@0.0.1920.1019" timestamp="1578150346326" />
-    <state x="150" y="223" key="search.everywhere.popup" timestamp="1578152199226">
+    <state x="994" y="0" width="735" height="700" key="dock-window-1/0.0.1920.1019@0.0.1920.1019" timestamp="1578484613286" />
+    <state x="150" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1578399340200">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state x="150" y="223" key="search.everywhere.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1578152199226" />
+    <state x="150" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1019@0.0.1920.1019" timestamp="1578399340200" />
   </component>
 </project>

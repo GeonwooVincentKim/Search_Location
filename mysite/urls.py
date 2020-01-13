@@ -17,7 +17,7 @@ Including another URLconf
 from django.conf.urls.static import static
 from django.conf.urls import include, url
 from django.contrib import admin
-from mysite.views import hello
+# from mysite.views import hello
 from map import views
 
 # app_name = 'main_app'
@@ -30,7 +30,7 @@ urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url(r'^map/', include('map.urls', namespace='map')),
     # path('hi/', hello),
-    url(r'^hi/$', hello),
+    # url(r'^hi/$', hello),
     # url(r'^break/$', hi),
     # url(r'^Hi$/', hello),
 ]

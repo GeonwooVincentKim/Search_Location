@@ -31,6 +31,7 @@ def lnglat_validator(value):
 
 
 class Post(models.Model):
+    # author = models.ForeignKey('auth.User')
     title = models.CharField(max_length=100)
     lnglat = models.CharField(max_length=40, blank=True, validators=[lnglat_validator])
     # is_public = models.BooleanField(default=False)

@@ -9,7 +9,7 @@
     {% for post in post_list %}
         <li>
             <a href="{% url 'map:post_detail' post.pk %}">
-                {{ post }}
+                {{ post.title }}
                 <br>
                 <br>
             </a>

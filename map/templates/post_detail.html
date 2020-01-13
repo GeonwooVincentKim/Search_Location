@@ -1,16 +1,18 @@
 {% extends "index.html" %}
-{% block title %}
-    {{ post.title }}
-{% endblock %}
+{% block title %}{{ post.title }}{% endblock %}
 
 {% block content %}
-{% endblock %}
-{% block content2 %}
+<div class="row_wrap">
+    <div class="first_row row">1</div>
+    <div class="second_row row">
+        {{ post.lng }} {{ post.lat }}
+        <br>
+        {{ post.updated_at }}
+    </div>
+    <div class="third_row row"><button>확<br>인</button></div>
+</div>
+<br><br>
+
 {% endblock %}
 
-{% block time1 %}
-    {{ post.updated_at }}
-{% endblock %}
-{% block time2 %}
-    {{ post.updated_at }}
-{% endblock %}
+

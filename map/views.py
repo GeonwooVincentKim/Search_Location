@@ -1,7 +1,11 @@
 import datetime
 
+from django.utils import timezone
+from .forms import PostForm
 from map.models import *
-from django.shortcuts import get_object_or_404, render, render_to_response
+from django.shortcuts import get_object_or_404, render, render_to_response, redirect
+
+
 # from geoposition.fields import GeopositionField
 
 
@@ -21,13 +25,14 @@ def index(request):
     return render(request, 'template.html',
                   {
                     'post_list': post_list,
-                    'post_lat': post_detail,
                     'current_time': now,
                   })
 
 
 def post_detail(request, pk):
     post = get_object_or_404(Post, pk=pk)
+    # post = post.filter(published_date__lte=timezone.now())
+    # post = post.order_by('created_at')
     # post = Post.objects.all()
     # context = {
     #     'post': post
@@ -42,8 +47,8 @@ def post_detail(request, pk):
 def save_lnglat(pk, newlnglat):
     post = get_object_or_404(Post, pk=pk)
     post.lnglat = newlnglat
-    post.save()
-    # return render(request, 'post_detail.html',
-    #               {
-    #                   'post': post
-    #               })
+    post.save(['id'])
+    return render(pk, 'post_detail.html',
+                  {
+                      'post': post
+                  })

@@ -1,3 +1,0 @@
-<!--        var locations = {lat: lat, lng: lng};-->
-
-<!--            center: new google.maps.LatLng(37.549012, 126.988546),-->
